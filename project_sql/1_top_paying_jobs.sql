@@ -7,7 +7,6 @@ offering insights into employment opportunites. */
 SELECT
     job_id,
     name as company_name,
-    -- COUNT(job_id) AS total_job_postings,
     job_title,
     job_location,
     job_schedule_type,
@@ -23,10 +22,10 @@ WHERE
     job_location = 'Anywhere' AND
     salary_year_avg IS NOT NULL AND
     job_work_from_home = TRUE
--- GROUP BY job_postings_fact.job_id
 ORDER BY salary_year_avg DESC
 LIMIT 100;
-    
+
+-- With total number of job postings.
 SELECT
     job_id,
     job_title,
@@ -42,6 +41,7 @@ WHERE
     AND job_work_from_home = TRUE
 ORDER BY salary_year_avg DESC;
 
+-- Job postings by job title.
 SELECT
     job_title,
     COUNT(*) AS total_job_postings
