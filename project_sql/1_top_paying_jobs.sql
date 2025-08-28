@@ -2,7 +2,7 @@
 Identify the top 10 highest paying data analyst roles that are available remotely.
 Focuses on job postings with specified salaries (remove nulls).
 Why?  Highlight the top-paying opportunities for data analysts, 
-offering insights into employment opportunites. */
+offering insights into employment opportunities. */
 
 SELECT
     job_id,
