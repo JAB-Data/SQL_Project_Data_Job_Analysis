@@ -1,0 +1,24 @@
+/.vscode
+/csv_files
+/SQL_ADV_Case_Problems.sql
+/SQL_ADV_CTE_P1.sql
+/SQL_ADV_CTE_P2.sql
+/SQL_ADV_CTE_P3.sql
+/SQL_ADV_Dates.sql
+/SQL_ADV_Dates_P3.sql
+/SQL_ADV_Manipulate.sql
+/SQL_ADV_PP6.sql
+/SQL_ADV_PP7.sql
+/SQL_ADV_Subs_P1.sql
+/SQL_ADV_Subs_P2.sql
+/SQL_ADV_Subs_P3.sql
+/SQL_ADV_UNION_P1.sql
+/SQL_ADV_UNION_P2.sql
+/SQL_ADV_UNION_P3.sql
+/SQL_ADV_UNION_P3_Output.csv
+/SQL_ADV_UNION_P3_Output_WITHOUT_distinct_count.csv
+/SQL_ADV_UNION_P3_Output_WITH_distinct_count.csv
+/SQL_UNION_Explanation & Examples (1).docx
+/SQL_UNION_Explanation & Examples (2).docx
+/SQL_UNION_Practice_Problem.sql
+/Subqueries_P2_Notes.docx
