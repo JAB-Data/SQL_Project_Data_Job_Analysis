@@ -4,7 +4,6 @@
 - Why?  It provides a detailed look at which high-paying jobs demand certains skills,
     helping job seekers understand, which skills to develop that align with top salaries. */
 
--- Joe's solution:  
 WITH top_paying_jobs AS
 (
     SELECT
