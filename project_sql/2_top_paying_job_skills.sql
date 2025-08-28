@@ -43,7 +43,7 @@ ORDER BY salary_year_avg DESC
 /*  Skills insights for top paying Data Analyst jobs.
 
 CONCLUSION
-The skill landscape for high-paying data analyst roles in 2023 emphasizes SQL and Python 
+The skills landscape for high-paying data analyst roles in 2023 emphasizes SQL and Python 
 as foundational, with strong demand for visualization tools (Tableau, Power BI, Excel) 
 and emerging cloud technologies (Snowflake, AWS, Azure). Statistical tools like R and SAS 
 remain relevant in specialized sectors, while collaboration tools indicate the importance of 
