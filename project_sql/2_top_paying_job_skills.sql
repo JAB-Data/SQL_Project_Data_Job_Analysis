@@ -39,7 +39,7 @@ INNER JOIN skills_dim ON s_j_d.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC
 ;
 
-/*  Skills insights for top paying Data Analyst jobs.
+/*  Skill insights for top paying Data Analyst jobs.
 
 CONCLUSION
 The skills landscape for high paying data analyst roles in 2023 emphasizes SQL and Python 
