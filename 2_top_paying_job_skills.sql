@@ -1,8 +1,10 @@
-/*  What skills are required for the top paying data analyst jobs?
+/*  
+What skills are required for the top paying data analyst jobs?
 - Use the top 10, highest-paying Data Analyst jobs from the first query.
 - Add the specific skills required for these roles.
-- Why?  It provides a detailed look at which high-paying jobs demand certains skills,
-    helping job seekers understand, which skills to develop that align with top salaries. */
+- WHY?  It provides a detailed look at which high-paying jobs demand certains skills,
+helping job seekers understand, which skills to develop that align with top salaries. 
+*/
 
 WITH top_paying_jobs AS
 (
@@ -39,12 +41,12 @@ INNER JOIN skills_dim ON s_j_d.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC
 ;
 
-/*  Skill insights for top paying Data Analyst jobs.
-
-CONCLUSION
+/*  
+Skill insights for top paying Data Analyst jobs.
 The skills landscape for high paying data analyst roles in 2023 emphasizes SQL and Python 
 as foundational, with strong demand for visualization tools (Tableau, Power BI, Excel) 
 and emerging cloud technologies (Snowflake, AWS, Azure). Statistical tools like R and SAS 
 remain relevant in specialized sectors, while collaboration tools indicate the importance of 
 teamwork in senior roles. Aspiring analysts should prioritize these skills to maximize 
-their employability and salary potential. */
+their employability and salary potential. 
+*/
