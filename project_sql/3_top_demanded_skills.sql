@@ -1,5 +1,5 @@
 /*  
-QUESTION:  What are the most in-demand skils for data analysts?
+What are the most in-demand skils for data analysts?
 - JOIN job postings to INNER JOIN table similar to Query Two
 - Identify the top 5 in-demand skills for a data analyst
 - Focus on all job postings
@@ -24,4 +24,6 @@ job market, providing insights into the most valuable skills for job seekers.
     GROUP BY
         skills_dim.skills
     ORDER BY demand_count DESC
-    LIMIT 10
+    LIMIT 10;
+
+    
