@@ -1,3 +1,8 @@
+# Large files that were removed from history due to GitHub's 100MB limit
+star_schema_files_august_2025/job_postings_fact.csv
+csv_files_org_2023/job_postings_fact.csv
+star_schema_files_august_2023/skills_job_dim.csv
+csv_files_update_august_2025/job_postings_fact.csv
 # Large files that were removed from history
 star_schema_files_august_2025/job_postings_fact.csv
 csv_files_org_2023/job_postings_fact.csv
