@@ -1,8 +1,39 @@
+# 2025_09_30 Untracked the following files and folders:
+csv_files_org_2023/
+sql_load/
+star_schema_files_august_2025/
+1_top_paying_jobs_output.csv
+2_top_paying_job_skills.csv
+3_top_demanded_skills.csv
+4_top_paying_skills.csv
+5_optimal_skills.csv
+SQL_JOIN_Explanation & Example.docx
+SQL_UNIONS_Explanation & Examples.docx
+
+# Large files/folders that contain raw data and should NOT be tracked by Git
+# (These were removed from history and should never be tracked again)
+star_schema_files_august_2025/job_postings_fact.csv
+csv_files_org_2023/job_postings_fact.csv
+star_schema_files_august_2023/skills_job_dim.csv
+csv_files_update_august_2025/job_postings_fact.csv
+
+# IGNORE ENTIRE RAW DATA FOLDERS (BETTER PRACTICE)
+# This prevents ALL contents of these folders from being accidentally added
+csv_files_org_2023/
+csv_files_update_august_2025/
+star_schema_files_august_2025/
+# And any other folders that only contain raw data, like an 'InputData' folder
+
+# Ignore all files that are only for local machine/editor settings
+.vscode/                 # Configuration folder for VS Code
+.ipynb_checkpoints/      # Checkpoints created by Jupyter/Notebooks
+
 # Large files that were removed from history due to GitHub's 100MB limit
 star_schema_files_august_2025/job_postings_fact.csv
 csv_files_org_2023/job_postings_fact.csv
 star_schema_files_august_2023/skills_job_dim.csv
 csv_files_update_august_2025/job_postings_fact.csv
+
 # Large files that were removed from history
 star_schema_files_august_2025/job_postings_fact.csv
 csv_files_org_2023/job_postings_fact.csv
