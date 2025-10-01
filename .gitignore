@@ -1,3 +1,7 @@
+# Large files that were removed from history
+star_schema_files_august_2025/job_postings_fact.csv
+csv_files_org_2023/job_postings_fact.csv
+star_schema_files_august_2023/skills_job_dim.csv
 star_schema_files_august_2025/copy_path_pg Admin 4.txt
 5_optimal_skills_output.csv
 project_sql/5_optimal_skills_output.csv
