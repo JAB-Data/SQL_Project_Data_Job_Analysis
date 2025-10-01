@@ -19,7 +19,7 @@ Pinpoint top paid and in-demand skills to find the optimal job opportunities. It
 **[5_optimal_skills.sql]**
 Optimal = HIGH Demand and HIGH Paying
 
-### TOOLS USED
+### Tools Used
 - **SQL** – vital to the analysis; query information and collate insights
 - **PostgreSQL** – a leading database management system
 - **Visual Code Editor** – database tool for creating and executing SQL queries 
